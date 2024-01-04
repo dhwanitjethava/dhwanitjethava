@@ -27,14 +27,6 @@
  
 ---
 
-### WORK EXPERIENCE
-
-* IRA - Biomatrix(Feb2020-March2020)
-* Data Enginner - Ridgeant Technology(Jun2022 - Sep2022)
-* Data Assurance - PWC(Sep2022 - Jan2022)
-
----
-
 ### CONTACT
 
 * <a href="https://twitter.com/priyal_l" target="_blank">Twitter </a>
