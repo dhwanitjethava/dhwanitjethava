@@ -21,16 +21,9 @@
 
 ### SKILL
 
-* HTML  
-* CSS 
-* JavaScript
-* React
-* SQL
-* Python
-* React Native
-
-
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py)](https://skillicons.dev) 
+* SQL  
+* Python 
+* AWS
  
 ---
 
