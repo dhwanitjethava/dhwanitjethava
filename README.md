@@ -29,5 +29,4 @@
 
 ### CONTACT
 
-* <a href="https://twitter.com/priyal_l" target="_blank">Twitter </a>
-* <a href="https://www.linkedin.com/in/priyallohar/" target="_blank">Linkedin </a>
+* <a href="https://twitter.com/dhwanitjethava" target="_blank">Twitter </a>
