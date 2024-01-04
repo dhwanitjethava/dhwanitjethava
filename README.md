@@ -29,4 +29,4 @@
 
 ### CONTACT
 
-* <a href="https://twitter.com/dhwanitjethava" target="_blank">Twitter </a>
+* <a href="www.linkedin.com/in/dhwanitjethava" target="_blank">LinkedIn </a>
